@@ -1,16 +1,10 @@
+var numbers = [1, 3, 5, 7, 10, 14, 30]
+var newNumbers;
 
-function solution(number) {
 
-  if (number % 3 === 0) {
+function solution(newNumbers) {
+  var newNumbers = numbers.filter(function(i){
+    return (i % 3 === 0 || i % 5 === 0)
+  })
 
-    return console.log("własciwa liczba " + number)
-  }
-  else if (number % 5 === 0) {
-    return console.log("To tez jest liczba")
-  }
-  else {
-    console.log("to niewlasciwa liczba")
-  }
 }
-
-solution(3,10)
