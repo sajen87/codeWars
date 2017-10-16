@@ -6,4 +6,6 @@ function removeChar(str) {
 
 };
 
+
+
 removeChar("OsiemnasciE");
