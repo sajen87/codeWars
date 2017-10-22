@@ -27,19 +27,41 @@
       <file leaf-file-name="Multiples3.5.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Multiples3.5.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="221">
+              <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ref.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ref.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,7 +133,9 @@
         <option value="$PROJECT_DIR$/Sort the odd - kata 6.js" />
         <option value="$PROJECT_DIR$/Triangular Treasure - kata 7.js" />
         <option value="$PROJECT_DIR$/Multiples3.5.js" />
+        <option value="$PROJECT_DIR$/test1.js" />
         <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/ref.js" />
       </list>
     </option>
   </component>
@@ -129,7 +153,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1276" />
+    <option name="x" value="1277" />
     <option name="y" value="22" />
     <option name="width" value="1283" />
     <option name="height" value="1418" />
@@ -174,26 +198,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
-    <configuration name="A Strange Trip to the Market - kata 8.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="A Strange Trip to the Market - kata 8.js" working-dir="$PROJECT_DIR$" />
+  <component name="RunManager" selected="Node.js.ref.js">
     <configuration name="Multiples3.5.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Multiples3.5.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="Sort the odd - kata 6.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Sort the odd - kata 6.js" working-dir="$PROJECT_DIR$" />
     <configuration name="Triangular Treasure - kata 7.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Triangular Treasure - kata 7.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="ref.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ref.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="test1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test1.js" working-dir="$PROJECT_DIR$" />
     <configuration name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.Multiples3.5.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.A Strange Trip to the Market - kata 8.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.Sort the odd - kata 6.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.Triangular Treasure - kata 7.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.Triangular Treasure - kata 7.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test1.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ref.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.Multiples3.5.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.Triangular Treasure - kata 7.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.Sort the odd - kata 6.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.A Strange Trip to the Market - kata 8.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ref.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.Multiples3.5.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.test1.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.Triangular Treasure - kata 7.js" />
       </list>
     </recent_temporary>
   </component>
@@ -213,24 +237,24 @@
       <workItem from="1508087448211" duration="21990000" />
       <workItem from="1508260695546" duration="6848000" />
       <workItem from="1508592347193" duration="1399000" />
-      <workItem from="1508593797033" duration="19524000" />
+      <workItem from="1508593797033" duration="28520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57843000" />
+    <option name="totallyTimeSpent" value="66839000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1276" y="22" width="1283" height="1418" extended-state="0" />
+    <frame x="1277" y="22" width="1283" height="1418" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.203645" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294753" sideWeight="0.5045492" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846153" sideWeight="0.5079239" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32846153" sideWeight="0.4954508" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32846153" sideWeight="0.49207607" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960381" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294753" sideWeight="0.4969834" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846153" sideWeight="0.49286845" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39923078" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -544,18 +568,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Multiples3.5.js">
+    <entry file="file://$PROJECT_DIR$/test1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="408">
+          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Multiples3.5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ref.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding />
         </state>
       </provider>
